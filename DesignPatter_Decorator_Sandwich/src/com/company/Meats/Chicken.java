@@ -1,6 +1,9 @@
-package com.company;
+package com.company.Meats;
 
-public class Chicken extends Meats{
+import com.company.Meats.Meats;
+import com.company.Sandwich;
+
+public class Chicken extends Meats {
 
     public double price = 1.19;
 

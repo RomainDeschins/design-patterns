@@ -2,9 +2,9 @@ package com.company;
 
 public abstract class Sandwich {
 
-    String name;
-    String customerName;
-    double price;
+    public String name;
+    public String customerName;
+    public double price;
 
     public double getPrice() {
         return price;

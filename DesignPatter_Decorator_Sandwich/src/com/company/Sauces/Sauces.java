@@ -1,6 +1,8 @@
-package com.company;
+package com.company.Sauces;
 
-public abstract class Sauces extends ToppingsDecorators{
+import com.company.ToppingsDecorators;
+
+public abstract class Sauces extends ToppingsDecorators {
 
     public double price = 0.49;
 

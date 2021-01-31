@@ -1,4 +1,7 @@
-package com.company;
+package com.company.Vegetables;
+
+import com.company.Sandwich;
+import com.company.Vegetables.Vegetables;
 
 public class Avocado extends Vegetables {
 

@@ -1,4 +1,7 @@
-package com.company;
+package com.company.Meats;
+
+import com.company.Meats.Meats;
+import com.company.Sandwich;
 
 public class Beef extends Meats {
 

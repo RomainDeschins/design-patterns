@@ -1,4 +1,6 @@
-package com.company;
+package com.company.Breads;
+
+import com.company.Sandwich;
 
 public class GlutenFreeBread extends Sandwich {
 
