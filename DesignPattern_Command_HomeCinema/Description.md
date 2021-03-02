@@ -1,0 +1,1 @@
+This is a home cinema program. Command objects are assigned to a remote-control object (the invoker). The client must first set the remote-control and can then press any button present on it to execute the action assigned to this particular button.
