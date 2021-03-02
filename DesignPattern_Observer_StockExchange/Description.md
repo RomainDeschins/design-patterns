@@ -1,0 +1,1 @@
+In this application the stock exchange is responsible for monitoring stock prices and acts as Subject by updating any institution or individual (the Observers) who would like to stay informed of the evolution of all the stocks followed by the exchange (pull method) or only of a certain portfolio of values through a push method.
